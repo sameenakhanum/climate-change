@@ -58,29 +58,30 @@ header ul li a {
      background-color: #354463;
      text-align: center;
      padding: 7px;
-     font-size: 15px;
+     font-size: 13px;
      margin: -15px auto 0;
-     top: -3%;
+     top: -1.5%;
      left: 25%;
      position: absolute;
 }
 .main-issue {
-   height: 180px;
+   height: 150px;
    width: 95%;
-   /* margin: 10px auto; */
+   margin:10px auto;
    background-color: #fff;
    position: relative;
+   margin-bottom: 40px;
 }
 .main-issue h3 {
     font-size: 14px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 35px;
 }
 .main-issue p {
     color: #000;
     font-size: 10px;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .take-action {
     width: 95%;
@@ -94,7 +95,7 @@ header ul li a {
      background-color: #354463;
      text-align: center;
      padding: 7px;
-     font-size: 15px;
+     font-size: 13px;
      margin: -15px auto 0;
      top: -1%;
      left: 25%;
@@ -115,6 +116,7 @@ header ul li a {
 }
 .learn h3 {
     font-size: 20px;
+    margin-top: -15%;
 }
 .volunteer {
     grid-row: 1/2;
@@ -139,7 +141,8 @@ header ul li a {
     background-color: #fff;
     text-align: center;
     padding: 6px;
-    margin: 30px 0 20px 27%;
+    margin-top: 30px;
+    margin-left: 30%;
 }
 .what-we-do p {
     text-align: center;
@@ -147,13 +150,14 @@ header ul li a {
     letter-spacing: 1.5px;
     line-height: 20px;
     margin-top: 25px;
+    margin-left: 10px;
 }
 .planting {
     margin: 0 auto;
     width: 95%;
     text-align: center;
     max-width: 450px;
-    margin-top: 25%;
+    margin-top: 10%;
     background-color: #fff;
 }
 .planting img {
@@ -214,6 +218,7 @@ header ul li a {
     text-align: center;
     background-color: #fff;
     margin-top: 25%;
+    margin-bottom: 15%;
 }
 .advocacy img {
     height: 140px;
@@ -263,7 +268,8 @@ header ul li a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 20%;
+    margin-top: 8%;
+    padding-bottom: 10%;
 }
 .did-you-know {
     height: 30px;
@@ -385,7 +391,7 @@ header ul li a {
     border-radius: 20px;
     height: 30px;
     width: 130px;
-    margin: 30px 0 0 30%;
+    margin-left: 35%;
 }
 .indicator {
     display: flex;
@@ -433,10 +439,11 @@ header ul li a {
     padding: 2%;
     position: absolute;
     margin-left: 28%;
-    top: -8%;
+    top: -6%;
+    font-size: 13px;
 }
 .images {
-    margin-top: 20%;
+    margin-top: 8%;
     text-align: center;
     position: relative;
     align-items: center;
@@ -453,6 +460,8 @@ header ul li a {
     width: 75%;
     font-size: 15px;
     margin: 0 auto;
+    line-height: 20px;
+    letter-spacing: 2px;
 }
 .earth p {
     margin-top: 30px;
@@ -462,6 +471,8 @@ header ul li a {
     margin: 0 auto;
     font-size: 13px;
     margin-top: 20px;
+    line-height: 20px;
+    letter-spacing: 1px;
 }
 .earth button {
     background-color: #c1f7d5;
@@ -470,7 +481,7 @@ header ul li a {
     height: 30px;
     width: 130px;
     margin-top: 25px;
-    margin-left: 27%;
+    margin-left: 33%;
 }
 .useflex1 {
     display: flex;
@@ -484,8 +495,9 @@ header ul li a {
     text-align: center;
     padding: 2%;
     position: absolute;
-    margin-left: 27%;
+    margin-left: 30%;
     top: -8%;
+    font-size: 13px;
 }
 .images1 {
     text-align: center;
@@ -504,6 +516,8 @@ header ul li a {
     text-align: center;
     font-size: 15px;
     margin-top: 20px;
+    letter-spacing: 2px;
+    line-height: 20px;
 }
 .earth1 p {
     width: 75%;
@@ -512,6 +526,8 @@ header ul li a {
     font-size: 13px;
     color: #fff;
     margin-top: 20px;
+    letter-spacing: 1px;
+    line-height: 20px;
 }
 .earth1 button {
     height: 30px;
@@ -520,7 +536,7 @@ header ul li a {
     border: 1px solid #c1f7d5;
     border-radius: 20px;
     text-align: center;
-    margin-left: 27%;
+    margin-left: 33%;
     margin-top: 25px;
     margin-bottom: 25px;
 }
@@ -666,7 +682,7 @@ header ul li {
 }
 .learn {
     grid-row: 1/2;
-    margin-top: -.5%;
+    padding-top: 15%;
 }
 .learn h3 {
     font-size: 30px;
@@ -792,7 +808,7 @@ header ul li {
     margin-bottom: 10%;
 }
 .advocacy img {
-    height: 180px;
+    height: 0px;
     width: 95%;
     margin-left: 40px;
 }
@@ -1116,7 +1132,7 @@ header ul li {
     flex: 0 0 20%;
     font-size: 16px;
     line-height: 30px;
-    margin-top: -.5%;
+    margin-top: -15%;
     margin-left: 40px;
 }
 .learn span {
